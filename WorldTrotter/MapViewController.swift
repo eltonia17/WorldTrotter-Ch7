@@ -32,8 +32,13 @@ final class MapViewController: UIViewController, MKMapViewDelegate, CLLocationMa
         mapView.delegate = self
         
         //Segmented controls
-        let segmentedControl
-                 = UISegmentedControl(items: ["Standard", "Hybrid", "Satellite"])
+         let standardString = NSLocalizedString("Standard", comment: "Standard map view")
+         let hybridString = NSLocalizedString("Hybrid", comment: "Hybrid map view")
+         let satelliteString
+                 = NSLocalizedString("Satellite", comment: "Satellite map view")
+
+         let segmentedControl
+               = UISegmentedControl(items: [standardString, hybridString, satelliteString])
          segmentedControl.backgroundColor = UIColor.systemBackground
          segmentedControl.selectedSegmentIndex = 0
         
@@ -61,7 +66,7 @@ final class MapViewController: UIViewController, MKMapViewDelegate, CLLocationMa
         
         // Points of Interest (label and switch)
         let poiLabel = UILabel()
-        poiLabel.text = "Points of Interest"
+        poiLabel.text = NSLocalizedString("Points of Interest", comment: "Toggle POI")
         poiLabel.translatesAutoresizingMaskIntoConstraints = false
 
         let poiSwitch = UISwitch()

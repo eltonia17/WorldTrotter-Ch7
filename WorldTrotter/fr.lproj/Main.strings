@@ -6,25 +6,25 @@
 "2ud-sh-iwJ.text" = "???";
 
 /* Class = "UILabel"; text = "degrees Fahrenheit"; ObjectID = "4l1-Rb-jw1"; */
-"4l1-Rb-jw1.text" = "degrees Fahrenheit";
+"4l1-Rb-jw1.text" = "degrés Fahrenheit";
 
 /* Class = "UITextField"; placeholder = "value"; ObjectID = "6S8-ux-gBb"; */
-"6S8-ux-gBb.placeholder" = "value";
+"6S8-ux-gBb.placeholder" = "valeur";
 
 /* Class = "UILabel"; text = "degrees Celsius"; ObjectID = "A2q-83-Eao"; */
-"A2q-83-Eao.text" = "degrees Celsius";
+"A2q-83-Eao.text" = "degrés Celsius";
 
 /* Class = "UITabBarItem"; title = "Convert"; ObjectID = "NjP-P5-O43"; */
-"NjP-P5-O43.title" = "Convert";
+"NjP-P5-O43.title" = "Convertir";
 
 /* Class = "UITabBarItem"; title = "Quiz"; ObjectID = "kYW-Ib-5SV"; */
 "kYW-Ib-5SV.title" = "Quiz";
 
 /* Class = "UITabBarItem"; title = "Map"; ObjectID = "ri8-7n-Dro"; */
-"ri8-7n-Dro.title" = "Map";
+"ri8-7n-Dro.title" = "Carte";
 
 /* Class = "UILabel"; text = "is really"; ObjectID = "s43-zy-cdG"; */
-"s43-zy-cdG.text" = "is really";
+"s43-zy-cdG.text" = "est vraiment";
 
 /* Class = "UIButton"; configuration.title = "Next Question"; ObjectID = "sHy-9m-39G"; */
 "sHy-9m-39G.configuration.title" = "Next Question";
