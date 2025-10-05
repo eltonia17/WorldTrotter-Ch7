@@ -27,16 +27,16 @@
 "s43-zy-cdG.text" = "est vraiment";
 
 /* Class = "UIButton"; configuration.title = "Next Question"; ObjectID = "sHy-9m-39G"; */
-"sHy-9m-39G.configuration.title" = "Next Question";
+"sHy-9m-39G.configuration.title" = "Question suivante";
 
 /* Class = "UIButton"; normalTitle = "Button"; ObjectID = "sHy-9m-39G"; */
-"sHy-9m-39G.normalTitle" = "Button";
+"sHy-9m-39G.normalTitle" = "Bouton";
 
 /* Class = "UIButton"; configuration.title = "Show Answer"; ObjectID = "vxv-Ic-sY5"; */
-"vxv-Ic-sY5.configuration.title" = "Show Answer";
+"vxv-Ic-sY5.configuration.title" = "Afficher la réponse";
 
 /* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vxv-Ic-sY5"; */
-"vxv-Ic-sY5.normalTitle" = "Button";
+"vxv-Ic-sY5.normalTitle" = "Bouton";
 
 /* Class = "UILabel"; text = "???"; ObjectID = "wjm-Z7-2mH"; */
 "wjm-Z7-2mH.text" = "???";
